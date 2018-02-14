@@ -1,2 +1,2 @@
-### test_app.bat - 201x - Jonathan BOURREE ###
+### test_app.bat - 2018 - Jonathan BOURREE ###
 version="1.2"
